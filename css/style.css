@@ -1,0 +1,66 @@
+.square{
+    float: left;
+    width: 30%; 
+    height: 0; 
+    padding-bottom: 30%; 
+    background-color:white;
+    margin:9.95px;
+    transition: all 1s;
+    -webkit-transition: all 0.8s;
+    -moz-transition: all 0.8s;
+    
+}
+
+.container{
+max-width: 600px;
+margin: 0 auto;
+
+}
+
+body{
+    background-color: #232323;
+    margin:0 auto;
+}
+h1{
+    margin: 0 auto;
+    text-align: center;
+    color:white;
+    background: steelblue;
+    margin: 0;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      
+
+}
+
+#message{
+    color:white;
+    font-weight: 200;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline-block;
+    width:20%; 
+    font-size: xx-large;
+    
+}
+
+#stripe{
+background-color:goldenrod;
+height: 30px;
+text-align: center;
+
+}
+button{
+    border: none;
+    text-transform: uppercase;
+    height:100%;
+    font-weight: 700;
+    color: rgb(219, 36, 36);
+    letter-spacing: 1px;
+    font-size: inherit;
+}
+
+  button:hover{
+    color: white;
+    background: steelblue
+}
