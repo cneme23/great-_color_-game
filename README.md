@@ -15,7 +15,9 @@ ___
 # Proyecto: Juego de adivinanza de colores 
 + ## ___Acerca de___
     ```
-    Es un simple juego para adivinar colores. Para su desarrollo se usaron las tecnologias de HTML5, CSS3 y Javascript .
+Este es un juego en el que tenés que adivinar colores. Las reglas son simples: se nos muestra un color escrito en rgb y 6 opciones del posible color, el usuario debe clickear estos colores hasta acertar el color correcto. Hay dos niveles de dificultad, en el fácil serán solo 3 opciones.     
+
+Para su desarrollo se usaron las tecnologias de HTML5, CSS3 y Javascript .
     ___
 ___
 
