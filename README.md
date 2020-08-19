@@ -1,4 +1,4 @@
-# The Great Color Guessing game Project
+# The Great Color Guessing Game Project
 + ## ___About___
     ```
     This is a simple Color Guessing Game using HTML, CSS and JS. 
@@ -20,10 +20,8 @@ ___
 ___
 
 + ## ___Acceso directo___
-    - [___Link de referencia___](http://lacasadelhabano.com.ar/)
-        ![Captura](/README/foto1.png)
-        ```
-        Seleccionada por su diseño simple e intuitivo. Muy util, la forma en como se caracteriza cada producto.
-    ___
+    - [___Link de referencia___](https://quirky-villani-38b633.netlify.app/)
+
+___
 
 
