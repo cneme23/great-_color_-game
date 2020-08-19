@@ -1,7 +1,8 @@
 # The Great Color Guessing Game Project
 + ## ___About___
     ```
-    This is a simple Color Guessing Game using HTML, CSS and JS. 
+    This  is a game where you have to guess colors. The rules are simple: the user will be shown a color written in rgb format, and will have to choose between six different           options if he/she choose to play in the "hard" mode and between three if the "easy" level is chosen.  The user must click these colors until the correct color is found. HTML,     CSS and JavaScript were the technologies used to develop the game. 
+ 
 ___
 
 + ## ___Direct access___
